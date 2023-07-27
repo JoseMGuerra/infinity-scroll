@@ -1,0 +1,16 @@
+## Fonts
+https://fonts.google.com Google Fonts
+
+## Loading animation
+https://loading.io/ Loading Animation Generator
+
+## Images
+ https://unsplash.com/ Unsplash Images
+
+ ## forEach vs for loops
+ https://www.w3schools.com/jsref/jsref_foreach.asp W3Schools - For Each
+
+https://alligator.io/js/foreach-vs-for-loops/ For Each vs For Loops Article
+
+## W3Schools - On Load Event
+https://www.w3schools.com/jsref/event_onload.asp 
